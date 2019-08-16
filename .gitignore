@@ -1,0 +1,9 @@
+# Node dependencies
+node_modules
+
+# Error logs
+npm-debug.log*
+
+# some build files
+dist/*.css
+dist/*.js
